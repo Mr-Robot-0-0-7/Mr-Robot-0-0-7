@@ -1,13 +1,13 @@
-# Abdul Rehman
+# Hi 👋 I'm Abdul Rehman
 
-## I am a student of Data Science, Studying at UET Lahore. I have a keen interest in the Understading and Developing Predictive and Models and Design Algorithms to outperform the decision making results. I love to analyze, manipulate and get insights from Data. 👋
+## I am a student of Data Science, Studying at UET Lahore. I have a keen interest in the Understading and Developing Predictive and Models and Design Algorithms to outperform the decision making results. I love to analyze, manipulate and get insights from Data. 
 
 ## Skills & Technology
-| Category       | Technologies            |
-| Languages      | Python, C#              |
-| Frontend       | HTML5, CSS3             |
-| Backend        | FastAPI, Flask          |
-| Tools          | VS Code, Git, Git Hub   |
+| Category       | Technologies            |  
+| Languages      | Python, C#              |  
+| Frontend       | HTML5, CSS3             |  
+| Backend        | FastAPI, Flask          |  
+| Tools          | VS Code, Git, Git Hub   |  
 
 ## Featured Projects
 ### Venue 360
